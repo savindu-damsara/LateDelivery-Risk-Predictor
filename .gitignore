@@ -15,9 +15,7 @@ models/checkpoints/
 *.pt
 *.pth
 
-# Dataset
-data/raw/
-data/processed/
+
 
 # Model files
 models/*.pth
